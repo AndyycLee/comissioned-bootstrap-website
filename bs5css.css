@@ -1,0 +1,48 @@
+body::before {
+    display: block;
+    content:'';
+
+    height: 65px;
+}
+
+body
+
+.custom {
+    color: rgb(178, 129, 224);
+
+}
+
+.sizin {
+      object-fit: contain;
+    /*object-position: center;*/
+    height:400px;
+
+    /*margin-left:50px;*/
+
+}
+
+.custom1 {
+    background-color: rgb(206, 174, 236);
+}
+
+.bleu {
+
+    background-color:rgb(78, 145, 233);
+}
+
+@media (min-width: 768px) {
+    .news-input{
+        width:50%;
+    }
+}
+
+.sizer-small{
+    height:200px;
+    width: 200px;
+    object-fit: cover;
+
+}
+
+.fitterditter {
+    object-fit: cover;
+}
