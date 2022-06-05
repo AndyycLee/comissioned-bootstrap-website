@@ -46,3 +46,26 @@ body
 .fitterditter {
     object-fit: cover;
 }
+
+.custer-sizer {
+
+    object-fit: cover;
+    height:350px;
+}
+
+.marg-left-0 {
+
+    margin: 0px;
+}
+
+.hov-shad:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.hov-shad {
+    transition: transform .2s;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+
+
+}
